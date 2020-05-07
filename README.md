@@ -2,3 +2,4 @@
 Generating Word Cloud in Python
 
 ### Output:
+![output](output.png)
