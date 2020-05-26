@@ -1,5 +1,7 @@
 # Word-Cloud-in-Python
 Generating Word Cloud in Python
 
+### Sourcerer [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Word-Cloud-in-Python/links/7)
+
 ### Output:
 ![output](output.png)
